@@ -1,0 +1,136 @@
+.Synonyms {
+    margin: 30px 0 0
+}
+
+.Synonyms ul {
+    padding: 0;
+    margin: 0
+}
+
+.Synonyms li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 14px
+}
+
+.Meaning h3 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 20px;
+    color: #000
+}
+
+.Meaning p {
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 20px 0 10px
+}
+
+.Meaning em {
+    font-size: 13px;
+    line-height: 15px;
+    color: #666
+}
+
+.Phonetic {
+    margin: 20px 0 0
+}
+
+.Phonetic h2 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #666;
+    display: inline
+}
+
+.Phonetic a {
+    color: #6c63ff;
+    font-weight: 400;
+    margin-right: 15px;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 8px 18px;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    text-decoration: none
+}
+
+.Result h1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000
+}
+
+.Photos img {
+    border-radius: 6px;
+    margin: 10px 0
+}
+
+.Dictionary {
+    max-width: 960px;
+    margin: 0 auto
+}
+
+.Dictionary section {
+    box-shadow: 0 30px 50px rgba(65,50,100,.08);
+    border-radius: 8px;
+    background: #fff;
+    margin-top: 10px;
+    padding: 40px
+}
+
+.Dictionary label {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 24px;
+    margin-bottom: 20px;
+    display: block;
+    line-height: 29px
+}
+
+.Dictionary .search-input {
+    display: block;
+    height: 64px;
+    color: #666;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 22px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    width: 100%
+}
+
+.Dictionary .hint {
+    margin-top: 15px;
+    display: block
+}
+
+.App {
+    padding: 60px 0 100px;
+    max-width: 960px;
+    margin: 0 auto
+}
+
+.App .logo {
+    max-width: 200px;
+    display: block;
+    margin: 30px auto
+}
+
+.App footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px
+}
+
+.App a {
+    color: #6c63ff
+}
+
+/*# sourceMappingURL=main.39b9eaf1.chunk.css.map */

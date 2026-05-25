@@ -26,7 +26,7 @@ export default function Dictionary(props) {
         axios.get(apiUrl).then(handleResponse);
     }
 
-    // eslint-diable-next-line
+    // eslint-disable-next-line
     useEffect(() => {
         search();
     }, []);

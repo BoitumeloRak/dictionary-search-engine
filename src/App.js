@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <a href="https://www.shecodes.io" target='_blank' rel='noreferrer'>
-            <img src="/logo.png" className="App-logo" alt="logo" /> 
+            <img src="/logo.png" className="logo" alt="logo" /> 
           </a>   
         </header>
         <Dictionary defaultKeyword="sunset"/>

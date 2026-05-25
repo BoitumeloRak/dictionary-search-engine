@@ -1,14 +1,21 @@
-// import logo from './logo.svg';
+// import logo from './logo.png';
 import './App.css';
+import Dictionary from './Dictionary';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      
-        <img src="/logo.png" className="App-logo" alt="logo" />
-
+      <div className="container">
+        <header className="App-header">
+          <img src="/logo.png" className="App-logo" alt="logo" />    
+        </header>
+        <main>
+          <Dictionary />
+        </main>
+        <footer className="App-footer">
+          <small>Coded by Boitumelo Rakgole</small>
+        </footer>
+      </div>   
     </div>
   );
 }
-
-export default App;
